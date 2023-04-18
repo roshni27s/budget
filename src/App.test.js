@@ -3,6 +3,6 @@ import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);
-  const appElement = screen.getByText(/Budget/);
-  expect(appElement.textContent).toEqual('Budget');
+  const appElement = screen.getByText(/Planner/);
+  expect(appElement.textContent).toEqual('Planner');
 });
