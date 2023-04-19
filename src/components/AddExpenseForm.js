@@ -32,6 +32,7 @@ const AddExpenseForm = (props) => {
 					<label for='name'>Name</label>
 					<input
 						required='required'
+						placeholder='Write name'
 						type='text'
 						class='form-control'
 						id='name'
@@ -43,6 +44,7 @@ const AddExpenseForm = (props) => {
 					<label for='cost'>Cost</label>
 					<input
 						required='required'
+						placeholder='Write cost'
 						type='number'
 						class='form-control'
 						id='cost'
