@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "fullName": "Roshni Singh",
+      "address": "Sector-82, Noida",
+      "phoneNumber": "8810312752",
+      "email": "roshni.rx@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Tanishk Gupta",
+      "address": "Shipra Suncity",
+      "phoneNumber": "8279363576",
+      "email": "tanihskgupta10@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Priyanshu Sharma",
+      "address": "11 lesly road",
+      "phoneNumber": "788-962-7516",
+      "email": "p.sharma@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Ishan Kamble",
+      "address": "333 miltown manor",
+      "phoneNumber": "011-962-111",
+      "email": "ishan.kamble@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Prachi Chauhan",
+      "address": "99 blue acres",
+      "phoneNumber": "3231-962-7516",
+      "email": "pchauhan@email.com"
+    },
+    {
+      "id": 6,
+      "fullName": "Ayush Singhal",
+      "address": "100 blue acres",
+      "phoneNumber": "3233-962-7516",
+      "email": "ayushsinghal@email.com"
+    }
+  ]
