@@ -1,3 +1,19 @@
+# Important Links
+
+### gh-pages
+https://github.com/gitname/react-gh-pages
+
+### ssh-keys
+https://betterprogramming.pub/how-to-add-an-ssh-key-to-github-96d934d09d35
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection
+
+### Video for deploy to github pages
+https://www.youtube.com/watch?v=5I37iVCDUTU
+
+### react project to deployment
+https://dev.to/achukka/series/12794
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
